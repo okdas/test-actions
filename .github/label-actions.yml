@@ -1,0 +1,5 @@
+test-variables:
+  prs:
+    comment: |
+      Author: {issue-author}
+      Issue ID: {issue-id}
